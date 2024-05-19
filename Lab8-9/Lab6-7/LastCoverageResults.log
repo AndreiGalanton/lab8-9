@@ -1,0 +1,21 @@
+[2024-05-19 16:02:33] [info] Start Program:
+Path:"D:\Facultate\Prelungire\Prelungire-2024\OOP\Lab8-9\x64\Debug\Lab8-9.exe"
+Arguments:
+Working directory: "D:\Facultate\Prelungire\Prelungire-2024\OOP\Lab8-9\Lab6-7\"
+Modules: Selected: D:\Facultate\Prelungire\Prelungire-2024\OOP\Lab8-9\x64\Debug\Lab8-9.exe Excluded: 
+Sources: Selected: D:\Facultate\Prelungire\Prelungire-2024\OOP\Lab8-9\Lab6-7 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Last Stand Of Cartof\AppData\Local\Temp\cd2jy0br.dsr 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-05-19 16:02:33] [info] Module: D:\Facultate\Prelungire\Prelungire-2024\OOP\Lab8-9\x64\Debug\Lab8-9.exe is selected because it matches selected pattern: D:\Facultate\Prelungire\Prelungire-2024\OOP\Lab8-9\x64\Debug\Lab8-9.exe
+[2024-05-19 16:02:33] [info] ----------------------------------------------------
+[2024-05-19 16:02:33] [info] Coverage binary generated in file: C:\Users\Last Stand Of Cartof\AppData\Local\Temp\cd2jy0br.dsr
+[2024-05-19 16:02:33] [info] ----------------------------------------------------

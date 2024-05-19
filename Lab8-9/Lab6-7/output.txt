@@ -1,0 +1,10 @@
+1 Hiking Iesire 3 outdoor
+2 Plimbare Iesire 1 outdoor
+3 Iesire Meet 3 outdoor
+4 Curatenie Curatenie 4 indoor
+5 Gatit Mancare 2 indoor
+6 Somn Odihna 7 indoor
+7 Sport Tenis 3 outdoor
+8 Sport Fotbal 2 outdoor
+9 Gatit Supa 3 indoor
+10 Curatenie Baie 2 indoor
